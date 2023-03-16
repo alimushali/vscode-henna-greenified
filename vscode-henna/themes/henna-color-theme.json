@@ -1,7 +1,7 @@
 {
-  "name": "Henna Dark",
+  "name": "Henna Greenified",
   "colors": {
-    "activityBar.background": "#e74c3c",
+    "activityBar.background": "#2eaf64",
     "activityBar.dropBackground": "#21272e",
     "activityBar.foreground": "#21272e",
     "activityBarBadge.foreground": "#f8f8f0",
@@ -36,7 +36,7 @@
 
     "quickInput.background": "#21272e",
     "quickInput.foreground": "#f8f8f0",
-    "quickInputTitle.background": "#e74c3c",
+    "quickInputTitle.background": "#2eaf64",
     "pickerGroup.foreground": "#f8f8f0",
 
     "menu.foreground": "#f8f8f0",
@@ -46,17 +46,17 @@
     "input.border": "#10151a",
     "input.foreground": "#f8f8f0",
     "inputOption.activeBorder": "#10151a",
-    "inputValidation.errorBackground": "#e74c3c",
+    "inputValidation.errorBackground": "#2eaf64",
     "inputValidation.errorBorder": "#10151a",
-    "inputValidation.infoBackground": "#e74c3c",
+    "inputValidation.infoBackground": "#2eaf64",
     "inputValidation.infoBorder": "#10151a",
-    "inputValidation.warningBackground": "#e74c3c",
-    "list.activeSelectionBackground": "#e74c3c",
+    "inputValidation.warningBackground": "#2eaf64",
+    "list.activeSelectionBackground": "#2eaf64",
     "list.activeSelectionForeground": "#f8f8f0",
     "list.inactiveSelectionBackground": "#21272e",
-    "list.hoverBackground": "#e74c3c",
+    "list.hoverBackground": "#2eaf64",
     "list.hoverForeground": "#f8f8f0",
-    "list.focusBackground": "#e74c3c",
+    "list.focusBackground": "#2eaf64",
     "list.focusForeground": "#f8f8f0",
     "sideBar.background": "#181A1F",
     "sideBarSectionHeader.background": "#21272e",
@@ -147,7 +147,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#e74c3c"
+        "foreground": "#ff1818"
       }
     },
     {
@@ -161,7 +161,7 @@
       "name": "Sunglo",
       "scope": ["keyword", "punctuation.definition.keyword"],
       "settings": {
-        "foreground": "#e74c3c"
+        "foreground": "#2eaf64"
       }
     },
     {
